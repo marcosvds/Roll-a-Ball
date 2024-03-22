@@ -41,6 +41,27 @@ Você pode testar o jogo diretamente no itch.io. Clique no link abaixo:
 
 Utilizamos a fonte *Josefin Sans* em nosso jogo. Você pode encontrá-la e baixá-la através do seguinte link: [Josefin Sans - Google Fonts](https://fonts.google.com/specimen/Josefin+Sans).
 
+### Assets de Interface do Usuário (GUI)
+
+Utilizamos os assets de GUI do pacote *Silent* para diversos elementos da interface do nosso jogo. Este pacote oferece um estilo minimalista, limpo, escuro e flat, sendo perfeito para o visual que queríamos alcançar.
+
+### Conteúdo do Pacote
+
+- Ícones
+- Botões
+- Tela inicial
+- Tela de níveis
+- Popups
+- Barra de progresso
+- Estrelas
+
+Formatos de arquivo disponíveis: SVG, PNG.
+
+Estes assets podem ser utilizados para fins pessoais ou comerciais, mas não podem ser revendidos.
+
+Para mais detalhes, visite [Silent no itch.io](https://prinbles.itch.io/silent).
+
+
 ## Como Contribuir
 
 Se você deseja contribuir para o desenvolvimento deste projeto, siga estas etapas:
