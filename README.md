@@ -17,11 +17,11 @@ O Roll-a-Ball é um jogo simples onde o jogador controla uma bola e deve coletar
 
 Aqui estão algumas telas do jogo para você ter uma ideia do visual:
 
-![Tela 1](imagens/telas/1.png)
-![Tela 2](imagens/telas/2.png)
-![Tela 3](imagens/telas/3.png)
-![Tela 4](imagens/telas/4.png)
-![Tela 5](imagens/telas/5.png)
+![Tela 1](imagens/Telas/1.png)
+![Tela 2](imagens/Telas/2.png)
+![Tela 3](imagens/Telas/3.png)
+![Tela 4](imagens/Telas/4.png)
+![Tela 5](imagens/Telas/5.png)
 
 ## Testando as Funcionalidades
 
