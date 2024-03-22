@@ -6,6 +6,24 @@ Este é um projeto de jogo digital desenvolvido como parte do curso de Jogos Dig
 
 O Roll-a-Ball é um jogo simples onde o jogador controla uma bola e deve coletar objetos espalhados pelo cenário, evitando obstáculos. O objetivo é acumular pontos ao coletar os objetos o mais rápido possível.
 
+## Status do Projeto (Rubrica)
+
+Este projeto cumpre a rubrica apresentada a seguir:
+- [x] **Entrega do Tutorial:** Tutorial completo e funcionalidades básicas implementadas.
+- [x] **Mecânica de Tempo:** Adicionada mecânica de decremento de tempo para tornar o jogo mais desafiador.
+- [x] **Inimigos:** Inimigos introduzidos como obstáculos fatais para o jogador.
+- [x] **Visual Aprimorado:** Tema visual aprimorado com uso de texturas e skybox temático.
+- [x] **Música:** Trilha sonora adicionada ao jogo no menu e no game principal.
+- [x] **Efeitos Sonoros:** Efeitos sonoros implementados para interações no jogo com a captura dos cubos e derrota/vitória.
+- [x] **Menu Inicial:** Menu inicial implementado junto com um tutorial dos comandos.
+- [x] **Tratamento de Dead-End:** Tratamento para situações sem saída como player cair fora da arena do game.
+- [x] **Página Itch.io:** Página do Itch.io bem construída, com todas as informações necessárias e vídeo demonstrativo.
+- [x] **Entrega no Prazo:** Projeto entregue dentro do prazo.
+- [x] **Repositório Público:** Código fonte disponível em repositório público.
+- [x] **WebGL:** Jogo disponível em WebGL, jogável pelo navegador.
+- [x] **Integridade Acadêmica:** Respeito total à integridade acadêmica, com todos os créditos devidamente atribuídos.
+
+
 ## Funcionalidades
 
 - Controle da bola usando teclado ou controles de toque (em dispositivos móveis).
