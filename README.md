@@ -1,6 +1,6 @@
-# Projeto Roll-a-Ball
+# Projeto Roll a Ball: My First Game
 
-Este é um projeto de jogo digital desenvolvido como parte do curso de Jogos Digitais do sétimo semestre da Engenharia de Computação.
+Roll a Ball: My First Game é um projeto desenvolvido para o curso de Jogos Digitais 2024.1 no Insper, sob orientação do Prof. Tiago Sanches e do Técnico Pedro Emil. Este jogo é baseado no tutorial "Roll-a-Ball" da Unity, ampliado com mecânicas adicionais e elementos visuais e sonoros para enriquecer a experiência do jogador.
 
 ## Descrição do Jogo
 
