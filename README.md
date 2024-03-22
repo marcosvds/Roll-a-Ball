@@ -31,16 +31,6 @@ Este projeto cumpre a rubrica apresentada a seguir:
 - Obstáculos que devem ser evitados para não perder pontos.
 - Interface de usuário simples e intuitiva.
 
-## Visual do Jogo
-
-Aqui estão algumas telas do jogo:
-
-![Tela 1](imagens/Telas/1.png)
-![Tela 2](imagens/Telas/2.png)
-![Tela 3](imagens/Telas/3.png)
-![Tela 4](imagens/Telas/4.png)
-![Tela 5](imagens/Telas/5.png)
-
 ## Testando as Funcionalidades
 
 Assista ao vídeo abaixo para ver as funcionalidades do jogo em ação:
@@ -94,4 +84,14 @@ Se você deseja contribuir para o desenvolvimento deste projeto, siga estas etap
 3. Faça commit de suas mudanças (`git commit -am 'Adiciona nova feature'`).
 4. Faça push para o branch (`git push origin feature/sua-feature`).
 5. Crie um novo Pull Request.
+
+## Visual do Jogo
+
+Aqui estão algumas telas do jogo:
+
+![Tela 1](imagens/Telas/1.png)
+![Tela 2](imagens/Telas/2.png)
+![Tela 3](imagens/Telas/3.png)
+![Tela 4](imagens/Telas/4.png)
+![Tela 5](imagens/Telas/5.png)
 
