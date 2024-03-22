@@ -13,6 +13,16 @@ O Roll-a-Ball é um jogo simples onde o jogador controla uma bola e deve coletar
 - Obstáculos que devem ser evitados para não perder pontos.
 - Interface de usuário simples e intuitiva.
 
+## Visual do Jogo
+
+Aqui estão algumas telas do jogo:
+
+![Tela 1](imagens/Telas/1.png)
+![Tela 2](imagens/Telas/2.png)
+![Tela 3](imagens/Telas/3.png)
+![Tela 4](imagens/Telas/4.png)
+![Tela 5](imagens/Telas/5.png)
+
 ## Testando as Funcionalidades
 
 Assista ao vídeo abaixo para ver as funcionalidades do jogo em ação:
@@ -23,7 +33,13 @@ Assista ao vídeo abaixo para ver as funcionalidades do jogo em ação:
 
 Você pode testar o jogo diretamente no itch.io. Clique no link abaixo:
 
-[![Testar o Jogo](https://github.com/itchio/itch.io/raw/master/logos/badge/badge-black-download-on-itchio.png)](https://marcosvds.itch.io/roll-a-ball)
+[Roll a Ball: My First Game](https://marcosvds.itch.io/roll-a-ball)
+
+## Recursos Utilizados no Jogo
+
+### Fonte
+
+Utilizamos a fonte *Josefin Sans* em nosso jogo. Você pode encontrá-la e baixá-la através do seguinte link: [Josefin Sans - Google Fonts](https://fonts.google.com/specimen/Josefin+Sans).
 
 ## Como Contribuir
 
@@ -35,6 +51,3 @@ Se você deseja contribuir para o desenvolvimento deste projeto, siga estas etap
 4. Faça push para o branch (`git push origin feature/sua-feature`).
 5. Crie um novo Pull Request.
 
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
