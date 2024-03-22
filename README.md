@@ -61,6 +61,11 @@ Estes assets podem ser utilizados para fins pessoais ou comerciais, mas não pod
 
 Para mais detalhes, visite [Silent no itch.io](https://prinbles.itch.io/silent).
 
+## Assets gratuitos Skyboxes da Coleção Sky Series
+
+Para enriquecer o ambiente visual do nosso jogo e adicionar mais imersão, utilizamos um Skybox gratuito da coleção Sky Series, disponíveis na Unity Asset Store. Estes skyboxes oferecem uma variedade de cenários celestiais, desde a luz do dia até configurações cósmicas, melhorando significativamente a atmosfera do jogo.
+
+[Veja este asset na Unity Asset Store](https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-series-free-103633)
 
 ## Como Contribuir
 
