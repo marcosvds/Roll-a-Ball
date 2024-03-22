@@ -33,7 +33,7 @@ Assista ao vídeo abaixo para ver as funcionalidades do jogo em ação:
 
 Você pode testar o jogo diretamente no itch.io. Clique no link abaixo:
 
-[![Testar o Jogo](https://github.com/itchio/itch.io/raw/master/logos/badge/badge-black-download-on-itchio.png)](https://marcosvds.itch.io/roll-a-ball)
+[Teste o Jogo!](https://marcosvds.itch.io/roll-a-ball)
 
 ## Como Contribuir
 
