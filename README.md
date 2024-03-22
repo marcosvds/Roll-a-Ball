@@ -13,6 +13,16 @@ O Roll-a-Ball é um jogo simples onde o jogador controla uma bola e deve coletar
 - Obstáculos que devem ser evitados para não perder pontos.
 - Interface de usuário simples e intuitiva.
 
+## Visual do Jogo
+
+Aqui estão algumas telas do jogo para você ter uma ideia do visual:
+
+![Tela 1](imagens/telas/1.png)
+![Tela 2](imagens/telas/2.png)
+![Tela 3](imagens/telas/3.png)
+![Tela 4](imagens/telas/4.png)
+![Tela 5](imagens/telas/5.png)
+
 ## Testando as Funcionalidades
 
 Assista ao vídeo abaixo para ver as funcionalidades do jogo em ação:
@@ -38,3 +48,4 @@ Se você deseja contribuir para o desenvolvimento deste projeto, siga estas etap
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
+
