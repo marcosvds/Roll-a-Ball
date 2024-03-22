@@ -35,6 +35,12 @@ Você pode testar o jogo diretamente no itch.io. Clique no link abaixo:
 
 [Roll a Ball: My First Game](https://marcosvds.itch.io/roll-a-ball)
 
+# Recursos Utilizados no Jogo
+
+## Fonte
+
+Utilizamos a fonte *Josefin Sans* em nosso jogo. Você pode encontrá-la e baixá-la através do seguinte link: [Josefin Sans - Google Fonts](https://fonts.google.com/specimen/Josefin+Sans).
+
 ## Como Contribuir
 
 Se você deseja contribuir para o desenvolvimento deste projeto, siga estas etapas:
