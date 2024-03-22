@@ -33,7 +33,7 @@ Assista ao vídeo abaixo para ver as funcionalidades do jogo em ação:
 
 Você pode testar o jogo diretamente no itch.io. Clique no link abaixo:
 
-[Teste o Jogo!](https://marcosvds.itch.io/roll-a-ball)
+[Roll a Ball: My First Game](https://marcosvds.itch.io/roll-a-ball)
 
 ## Como Contribuir
 
